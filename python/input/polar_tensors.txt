@@ -1,0 +1,499 @@
+==============================================================================
+ +                      Raman Susceptibility Tensors ((A/amu)*0.5)            +
+ +----------------------------------------------------------------------------+
+ + Mode number:   1 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0001   -0.0015      0.749998                               +
+ +     0.0001    0.0000    0.0000                                             +
+ +    -0.0015    0.0000    0.0000                                             +
+ +                                                                            +
+ + Mode number:   2 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0007   -0.0000      0.750000                               +
+ +    -0.0007    0.0000   -0.0013                                             +
+ +    -0.0000   -0.0013    0.0000                                             +
+ +                                                                            +
+ + Mode number:   3 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0013   -0.0000      0.750000                               +
+ +    -0.0013   -0.0000    0.0007                                             +
+ +    -0.0000    0.0007    0.0000                                             +
+ +                                                                            +
+ + Mode number:   4 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0000    0.0004      0.749998                               +
+ +    -0.0000   -0.0000    0.0003                                             +
+ +     0.0004    0.0003   -0.0000                                             +
+ +                                                                            +
+ + Mode number:   5 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0004   -0.0002      0.750000                               +
+ +     0.0004   -0.0000    0.0003                                             +
+ +    -0.0002    0.0003    0.0000                                             +
+ +                                                                            +
+ + Mode number:   6 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0003    0.0002      0.750000                               +
+ +     0.0003    0.0000   -0.0003                                             +
+ +     0.0002   -0.0003   -0.0000                                             +
+ +                                                                            +
+ + Mode number:   7 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0209    0.0019      0.750000                               +
+ +     0.0209   -0.0000   -0.0029                                             +
+ +     0.0019   -0.0029   -0.0000                                             +
+ +                                                                            +
+ + Mode number:   8 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0034   -0.0148      0.750000                               +
+ +     0.0034    0.0000    0.0148                                             +
+ +    -0.0148    0.0148   -0.0000                                             +
+ +                                                                            +
+ + Mode number:   9 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0007   -0.0151      0.750000                               +
+ +    -0.0007   -0.0000   -0.0149                                             +
+ +    -0.0151   -0.0149    0.0000                                             +
+ +                                                                            +
+ + Mode number:  10 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0295    0.0092      0.750000                               +
+ +    -0.0295    0.0000   -0.0029                                             +
+ +     0.0092   -0.0029    0.0000                                             +
+ +                                                                            +
+ + Mode number:  11 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0014   -0.0053      0.750000                               +
+ +     0.0014    0.0000   -0.0305                                             +
+ +    -0.0053   -0.0305    0.0000                                             +
+ +                                                                            +
+ + Mode number:  12 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0096    0.0291      0.750000                               +
+ +     0.0096   -0.0000   -0.0047                                             +
+ +     0.0291   -0.0047   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  13 Raman tensor       Depolarisation Ratio                   +
+ +     0.0099    0.0000   -0.0000      0.000000                               +
+ +     0.0000    0.0099    0.0000                                             +
+ +    -0.0000    0.0000    0.0099                                             +
+ +                                                                            +
+ + Mode number:  14 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0312    0.0000   -0.0000      0.750000                               +
+ +     0.0000    0.0296    0.0000                                             +
+ +    -0.0000    0.0000    0.0016                                             +
+ +                                                                            +
+ + Mode number:  15 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0162    0.0000    0.0000      0.750000                               +
+ +     0.0000   -0.0189   -0.0000                                             +
+ +     0.0000   -0.0000    0.0351                                             +
+ +                                                                            +
+ + Mode number:  16 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0102    0.0075      0.750000                               +
+ +    -0.0102   -0.0000   -0.0050                                             +
+ +     0.0075   -0.0050   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  17 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0075    0.0027      0.750000                               +
+ +     0.0075    0.0000   -0.0111                                             +
+ +     0.0027   -0.0111    0.0000                                             +
+ +                                                                            +
+ + Mode number:  18 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0051    0.0111      0.750000                               +
+ +     0.0051   -0.0000    0.0061                                             +
+ +     0.0111    0.0061    0.0000                                             +
+ +                                                                            +
+ + Mode number:  19 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0287    0.0000   -0.0000      0.750000                               +
+ +     0.0000    0.0295    0.0000                                             +
+ +    -0.0000    0.0000   -0.0008                                             +
+ +                                                                            +
+ + Mode number:  20 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0175    0.0000   -0.0000      0.750000                               +
+ +     0.0000   -0.0161   -0.0000                                             +
+ +    -0.0000   -0.0000    0.0336                                             +
+ +                                                                            +
+ + Mode number:  21 Raman tensor       Depolarisation Ratio                   +
+ +     0.0645    0.0000   -0.0000      0.000000                               +
+ +     0.0000    0.0645    0.0000                                             +
+ +    -0.0000    0.0000    0.0645                                             +
+ +                                                                            +
+ + Mode number:  22 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0285    0.0038      0.750000                               +
+ +     0.0285    0.0000    0.0266                                             +
+ +     0.0038    0.0266   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  23 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0020   -0.0384      0.750000                               +
+ +    -0.0020   -0.0000    0.0076                                             +
+ +    -0.0384    0.0076   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  24 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0268    0.0068      0.750000                               +
+ +    -0.0268    0.0000    0.0277                                             +
+ +     0.0068    0.0277    0.0000                                             +
+ +                                                                            +
+ + Mode number:  25 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0101    0.0163      0.750000                               +
+ +    -0.0101   -0.0000    0.0101                                             +
+ +     0.0163    0.0101    0.0000                                             +
+ +                                                                            +
+ + Mode number:  26 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0189    0.0067      0.750000                               +
+ +     0.0189    0.0000    0.0082                                             +
+ +     0.0067    0.0082   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  27 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0031    0.0127      0.750000                               +
+ +     0.0031    0.0000   -0.0173                                             +
+ +     0.0127   -0.0173   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  28 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0028    0.0041      0.750000                               +
+ +     0.0028   -0.0000    0.0001                                             +
+ +     0.0041    0.0001   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  29 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0018   -0.0013      0.750000                               +
+ +     0.0018    0.0000    0.0044                                             +
+ +    -0.0013    0.0044   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  30 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0037   -0.0024      0.750000                               +
+ +     0.0037    0.0000   -0.0022                                             +
+ +    -0.0024   -0.0022   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  31 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0692   -0.0000    0.0000      0.750000                               +
+ +    -0.0000    0.0679    0.0000                                             +
+ +     0.0000    0.0000    0.0013                                             +
+ +                                                                            +
+ + Mode number:  32 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0385   -0.0000    0.0000      0.750000                               +
+ +    -0.0000   -0.0407   -0.0000                                             +
+ +     0.0000   -0.0000    0.0792                                             +
+ +                                                                            +
+ + Mode number:  33 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0146   -0.0080      0.750000                               +
+ +     0.0146   -0.0000    0.0006                                             +
+ +    -0.0080    0.0006    0.0000                                             +
+ +                                                                            +
+ + Mode number:  34 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0080   -0.0143      0.750000                               +
+ +    -0.0080   -0.0000    0.0030                                             +
+ +    -0.0143    0.0030   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  35 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0009    0.0029      0.750000                               +
+ +     0.0009   -0.0000    0.0164                                             +
+ +     0.0029    0.0164   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  36 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0173   -0.0306      0.750000                               +
+ +     0.0173    0.0000   -0.0092                                             +
+ +    -0.0306   -0.0092    0.0000                                             +
+ +                                                                            +
+ + Mode number:  37 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0155   -0.0172      0.750000                               +
+ +    -0.0155    0.0000    0.0280                                             +
+ +    -0.0172    0.0280    0.0000                                             +
+ +                                                                            +
+ + Mode number:  38 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0279   -0.0095      0.750000                               +
+ +    -0.0279   -0.0000   -0.0212                                             +
+ +    -0.0095   -0.0212    0.0000                                             +
+ +                                                                            +
+ + Mode number:  39 Raman tensor       Depolarisation Ratio                   +
+ +     0.0680    0.0000   -0.0000      0.000000                               +
+ +     0.0000    0.0680    0.0000                                             +
+ +    -0.0000    0.0000    0.0680                                             +
+ +                                                                            +
+ + Mode number:  40 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0954    0.0000   -0.0000      0.000000                               +
+ +     0.0000   -0.0954    0.0000                                             +
+ +    -0.0000    0.0000   -0.0954                                             +
+ +                                                                            +
+ + Mode number:  41 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0034    0.0295      0.750000                               +
+ +    -0.0034    0.0000    0.0112                                             +
+ +     0.0295    0.0112   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  42 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0221   -0.0103      0.750000                               +
+ +    -0.0221    0.0000    0.0204                                             +
+ +    -0.0103    0.0204   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  43 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0226    0.0056      0.750000                               +
+ +    -0.0226    0.0000   -0.0216                                             +
+ +     0.0056   -0.0216   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  44 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0302   -0.0120      0.750000                               +
+ +     0.0302    0.0000   -0.0078                                             +
+ +    -0.0120   -0.0078    0.0000                                             +
+ +                                                                            +
+ + Mode number:  45 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0050   -0.0259      0.750000                               +
+ +    -0.0050    0.0000    0.0205                                             +
+ +    -0.0259    0.0205   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  46 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0134    0.0173      0.750000                               +
+ +     0.0134   -0.0000    0.0252                                             +
+ +     0.0173    0.0252    0.0000                                             +
+ +                                                                            +
+ + Mode number:  47 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0068    0.0252      0.750000                               +
+ +    -0.0068   -0.0000   -0.0534                                             +
+ +     0.0252   -0.0534   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  48 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0303    0.0447      0.750000                               +
+ +    -0.0303   -0.0000    0.0250                                             +
+ +     0.0447    0.0250    0.0000                                             +
+ +                                                                            +
+ + Mode number:  49 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0507   -0.0301      0.750000                               +
+ +    -0.0507    0.0000   -0.0077                                             +
+ +    -0.0301   -0.0077    0.0000                                             +
+ +                                                                            +
+ + Mode number:  50 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0080   -0.0031      0.750000                               +
+ +     0.0080    0.0000    0.0074                                             +
+ +    -0.0031    0.0074   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  51 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0041   -0.0105      0.750000                               +
+ +    -0.0041    0.0000    0.0000                                             +
+ +    -0.0105    0.0000    0.0000                                             +
+ +                                                                            +
+ + Mode number:  52 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0069    0.0027      0.750000                               +
+ +    -0.0069   -0.0000    0.0086                                             +
+ +     0.0027    0.0086    0.0000                                             +
+ +                                                                            +
+ + Mode number:  53 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0914   -0.0000    0.0000      0.750000                               +
+ +    -0.0000    0.0050   -0.0000                                             +
+ +     0.0000   -0.0000    0.0864                                             +
+ +                                                                            +
+ + Mode number:  54 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0470   -0.0000   -0.0000      0.750000                               +
+ +    -0.0000    0.1026    0.0000                                             +
+ +    -0.0000    0.0000   -0.0557                                             +
+ +                                                                            +
+ + Mode number:  55 Raman tensor       Depolarisation Ratio                   +
+ +    -0.2290    0.0000    0.0000      0.000000                               +
+ +     0.0000   -0.2290    0.0000                                             +
+ +     0.0000    0.0000   -0.2290                                             +
+ +                                                                            +
+ + Mode number:  56 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0011   -0.0014      0.750000                               +
+ +     0.0011   -0.0000    0.0049                                             +
+ +    -0.0014    0.0049   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  57 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0010    0.0049      0.749999                               +
+ +    -0.0010    0.0000    0.0017                                             +
+ +     0.0049    0.0017    0.0000                                             +
+ +                                                                            +
+ + Mode number:  58 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0050   -0.0013      0.750000                               +
+ +    -0.0050    0.0000    0.0008                                             +
+ +    -0.0013    0.0008    0.0000                                             +
+ +                                                                            +
+ + Mode number:  59 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0003   -0.0004      0.750000                               +
+ +    -0.0003   -0.0000   -0.0054                                             +
+ +    -0.0004   -0.0054    0.0000                                             +
+ +                                                                            +
+ + Mode number:  60 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0039    0.0037      0.750000                               +
+ +    -0.0039    0.0000   -0.0001                                             +
+ +     0.0037   -0.0001    0.0000                                             +
+ +                                                                            +
+ + Mode number:  61 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0037   -0.0039      0.750000                               +
+ +    -0.0037    0.0000    0.0005                                             +
+ +    -0.0039    0.0005   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  62 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0244   -0.0000    0.0000      0.750000                               +
+ +    -0.0000    0.0165    0.0000                                             +
+ +     0.0000    0.0000    0.0079                                             +
+ +                                                                            +
+ + Mode number:  63 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0050    0.0000    0.0000      0.750000                               +
+ +     0.0000   -0.0186   -0.0000                                             +
+ +     0.0000   -0.0000    0.0236                                             +
+ +                                                                            +
+ + Mode number:  64 Raman tensor       Depolarisation Ratio                   +
+ +    -0.3582   -0.0000   -0.0000      0.000000                               +
+ +    -0.0000   -0.3582   -0.0000                                             +
+ +    -0.0000   -0.0000   -0.3582                                             +
+ +                                                                            +
+ + Mode number:  65 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0072   -0.0121      0.750000                               +
+ +    -0.0072    0.0000   -0.0225                                             +
+ +    -0.0121   -0.0225   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  66 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0241    0.0046      0.750000                               +
+ +     0.0241    0.0000   -0.0102                                             +
+ +     0.0046   -0.0102   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  67 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0085   -0.0232      0.750000                               +
+ +     0.0085   -0.0000    0.0098                                             +
+ +    -0.0232    0.0098    0.0000                                             +
+ +                                                                            +
+ + Mode number:  68 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0075   -0.0000    0.0000      0.750000                               +
+ +    -0.0000   -0.0262   -0.0000                                             +
+ +     0.0000   -0.0000    0.0337                                             +
+ +                                                                            +
+ + Mode number:  69 Raman tensor       Depolarisation Ratio                   +
+ +     0.0346   -0.0000   -0.0000      0.750000                               +
+ +    -0.0000   -0.0238    0.0000                                             +
+ +    -0.0000    0.0000   -0.0108                                             +
+ +                                                                            +
+ + Mode number:  70 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0661   -0.0068      0.750000                               +
+ +    -0.0661    0.0000    0.0147                                             +
+ +    -0.0068    0.0147   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  71 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0071    0.0432      0.750000                               +
+ +     0.0071    0.0000    0.0522                                             +
+ +     0.0432    0.0522    0.0000                                             +
+ +                                                                            +
+ + Mode number:  72 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0146   -0.0522      0.750000                               +
+ +     0.0146   -0.0000    0.0412                                             +
+ +    -0.0522    0.0412   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  73 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0060   -0.0157      0.750000                               +
+ +    -0.0060   -0.0000    0.0085                                             +
+ +    -0.0157    0.0085   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  74 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0138   -0.0098      0.750000                               +
+ +     0.0138   -0.0000   -0.0082                                             +
+ +    -0.0098   -0.0082   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  75 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0112   -0.0036      0.750000                               +
+ +    -0.0112    0.0000   -0.0147                                             +
+ +    -0.0036   -0.0147   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  76 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0099   -0.0131      0.750000                               +
+ +     0.0099   -0.0000    0.0033                                             +
+ +    -0.0131    0.0033    0.0000                                             +
+ +                                                                            +
+ + Mode number:  77 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0068    0.0013      0.750000                               +
+ +     0.0068   -0.0000   -0.0153                                             +
+ +     0.0013   -0.0153    0.0000                                             +
+ +                                                                            +
+ + Mode number:  78 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0117    0.0104      0.750000                               +
+ +     0.0117   -0.0000    0.0061                                             +
+ +     0.0104    0.0061    0.0000                                             +
+ +                                                                            +
+ + Mode number:  79 Raman tensor       Depolarisation Ratio                   +
+ +     0.1496    0.0000   -0.0000      0.750000                               +
+ +     0.0000   -0.0624    0.0000                                             +
+ +    -0.0000    0.0000   -0.0872                                             +
+ +                                                                            +
+ + Mode number:  80 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0143   -0.0000   -0.0000      0.750000                               +
+ +    -0.0000    0.1367   -0.0000                                             +
+ +    -0.0000   -0.0000   -0.1224                                             +
+ +                                                                            +
+ + Mode number:  81 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0265    0.0304      0.750000                               +
+ +     0.0265   -0.0000    0.0668                                             +
+ +     0.0304    0.0668    0.0000                                             +
+ +                                                                            +
+ + Mode number:  82 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0150    0.0718      0.750000                               +
+ +    -0.0150    0.0000   -0.0267                                             +
+ +     0.0718   -0.0267   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  83 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0718    0.0038      0.750000                               +
+ +     0.0718    0.0000   -0.0302                                             +
+ +     0.0038   -0.0302    0.0000                                             +
+ +                                                                            +
+ + Mode number:  84 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0178    0.0237      0.750000                               +
+ +    -0.0178    0.0000   -0.0125                                             +
+ +     0.0237   -0.0125   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  85 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0085   -0.0092      0.750000                               +
+ +     0.0085   -0.0000   -0.0297                                             +
+ +    -0.0092   -0.0297    0.0000                                             +
+ +                                                                            +
+ + Mode number:  86 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0254   -0.0197      0.750000                               +
+ +    -0.0254   -0.0000   -0.0012                                             +
+ +    -0.0197   -0.0012   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  87 Raman tensor       Depolarisation Ratio                   +
+ +    -0.4356   -0.0000   -0.0000      0.000000                               +
+ +    -0.0000   -0.4356   -0.0000                                             +
+ +    -0.0000   -0.0000   -0.4356                                             +
+ +                                                                            +
+ + Mode number:  88 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0038   -0.0045      0.750000                               +
+ +    -0.0038   -0.0000   -0.0176                                             +
+ +    -0.0045   -0.0176   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  89 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0134   -0.0129      0.750000                               +
+ +     0.0134   -0.0000    0.0004                                             +
+ +    -0.0129    0.0004    0.0000                                             +
+ +                                                                            +
+ + Mode number:  90 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000   -0.0123   -0.0126      0.750000                               +
+ +    -0.0123   -0.0000    0.0059                                             +
+ +    -0.0126    0.0059   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  91 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0091    0.0018      0.750000                               +
+ +     0.0091   -0.0000   -0.0499                                             +
+ +     0.0018   -0.0499    0.0000                                             +
+ +                                                                            +
+ + Mode number:  92 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0056   -0.0504      0.750000                               +
+ +     0.0056   -0.0000   -0.0008                                             +
+ +    -0.0504   -0.0008   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  93 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000   -0.0496   -0.0054      0.750000                               +
+ +    -0.0496    0.0000   -0.0093                                             +
+ +    -0.0054   -0.0093    0.0000                                             +
+ +                                                                            +
+ + Mode number:  94 Raman tensor       Depolarisation Ratio                   +
+ +    -0.2415   -0.0000   -0.0000      0.750000                               +
+ +    -0.0000    0.2075   -0.0000                                             +
+ +    -0.0000   -0.0000    0.0341                                             +
+ +                                                                            +
+ + Mode number:  95 Raman tensor       Depolarisation Ratio                   +
+ +    -0.1001    0.0000    0.0000      0.750000                               +
+ +     0.0000   -0.1591   -0.0000                                             +
+ +     0.0000   -0.0000    0.2592                                             +
+ +                                                                            +
+ + Mode number:  96 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0278   -0.0000   -0.0000      0.000000                               +
+ +    -0.0000   -0.0278   -0.0000                                             +
+ +    -0.0000   -0.0000   -0.0278                                             +
+ +                                                                            +
+ + Mode number:  97 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0352   -0.0324      0.750000                               +
+ +     0.0352   -0.0000   -0.0050                                             +
+ +    -0.0324   -0.0050   -0.0000                                             +
+ +                                                                            +
+ + Mode number:  98 Raman tensor       Depolarisation Ratio                   +
+ +     0.0000    0.0108    0.0184      0.750000                               +
+ +     0.0108   -0.0000   -0.0431                                             +
+ +     0.0184   -0.0431    0.0000                                             +
+ +                                                                            +
+ + Mode number:  99 Raman tensor       Depolarisation Ratio                   +
+ +    -0.0000    0.0309    0.0304      0.750000                               +
+ +     0.0309   -0.0000    0.0207                                             +
+ +     0.0304    0.0207   -0.0000                                             +
+ +                                                                            +
+ +----------------------------------------------------------------------------+

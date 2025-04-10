@@ -2,8 +2,6 @@ import re
 import math
 
 def stokes_factor(nu_cm, I_raman, T=300.0):
-    # k_B * 300 K ~ 208 cm^-1 (roughly)
-    # h nu / (k_B T) ~ nu / (208 cm^-1)
     k_B_T_cm = 208.0 * (T / 300.0)  # scale if T != 300
 
     x = nu_cm / k_B_T_cm  # dimensionless ratio h nu / (k_B T)
@@ -47,7 +45,7 @@ def extract_frequencies(file_path):
                     irreps.append(parts[3])
     return frequencies, intensities, activities, irreps
 import os 
-filename = 'input\dfpt_freq.txt'
+filename = '.\input\dfpt_freq.txt'
 frequencies, intensities, activities, irreps = extract_frequencies(filename)
 
 print("Extracted Frequencies:", frequencies)
